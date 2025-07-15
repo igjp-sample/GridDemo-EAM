@@ -1,0 +1,20 @@
+{
+  "detailsCategories": [
+    { "label": "メーカー", "key": "make" },
+    { "label": "世代/モデル", "key": "details.generation" },
+    { "label": "製造年", "key": "details.yearOfManufacture" },
+    { "label": "燃料種別", "key": "details.fuelType" },
+    { "label": "ドア数", "key": "details.doors" },
+    { "label": "乗車定員", "key": "details.seats" },
+    { "label": "トランスミッション", "key": "details.transmission" }
+  ],
+  "engineCategories": [
+    { "label": "エンジン", "key": "details.engine" },
+    { "label": "最高出力", "key": "details.power" },
+    { "label": "走行距離", "key": "details.mileage" },
+    { "label": "排気量", "key": "details.cubature" },
+    { "label": "ボディカラー", "key": "details.color" },
+    { "label": "新車時価格", "key": "details.msrp" },
+    { "label": "ETCカード番号", "key": "details.tollPassId" }
+  ]
+}

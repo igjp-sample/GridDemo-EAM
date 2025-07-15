@@ -1,0 +1,1495 @@
+[
+  {
+    "vehicleId": "A00101",
+    "tripHistory": [
+      {
+        "id": 1,
+        "driverName": "佐藤 健",
+        "start": "2024-11-17",
+        "end": "N/A",
+        "startLocation": "東京",
+        "endLocation": "大阪",
+        "startMeter": "117998.4 km",
+        "endMeter": "N/A",
+        "distance": "N/A",
+        "totalTime": "N/A"
+      },
+      {
+        "id": 2,
+        "driverName": "加藤 陽菜",
+        "start": "2024-10-13",
+        "end": "2024-10-23",
+        "startLocation": "名古屋",
+        "endLocation": "東京",
+        "startMeter": "117163.0 km",
+        "endMeter": "117998.4 km",
+        "distance": "835.4 km",
+        "totalTime": "23h 15m"
+      },
+      {
+        "id": 3,
+        "driverName": "高橋 美咲",
+        "start": "2024-10-03",
+        "end": "2024-10-12",
+        "startLocation": "東京",
+        "endLocation": "名古屋",
+        "startMeter": "116638.4 km",
+        "endMeter": "117163.0 km",
+        "distance": "524.6 km",
+        "totalTime": "18h 30m"
+      },
+      {
+        "id": 4,
+        "driverName": "渡辺 結衣",
+        "start": "2024-09-23",
+        "end": "2024-09-29",
+        "startLocation": "名古屋",
+        "endLocation": "東京",
+        "startMeter": "115140.4 km",
+        "endMeter": "116638.4 km",
+        "distance": "1498.0 km",
+        "totalTime": "45h 30m"
+      },
+      {
+        "id": 5,
+        "driverName": "鈴木 一郎",
+        "start": "2024-08-23",
+        "end": "2024-09-22",
+        "startLocation": "東京",
+        "endLocation": "名古屋",
+        "startMeter": "113588.8 km",
+        "endMeter": "115140.4 km",
+        "distance": "1551.6 km",
+        "totalTime": "44h 45m"
+      },
+      {
+        "id": 6,
+        "driverName": "中村 海翔",
+        "start": "2024-08-15",
+        "end": "2024-08-20",
+        "startLocation": "札幌",
+        "endLocation": "東京",
+        "startMeter": "112608.6 km",
+        "endMeter": "113588.8 km",
+        "distance": "980.2 km",
+        "totalTime": "38h 30m"
+      }
+    ]
+  },
+  {
+    "vehicleId": "A00102",
+    "tripHistory": [
+      {
+        "id": 1,
+        "driverName": "加藤 陽菜",
+        "start": "2024-11-17",
+        "end": "N/A",
+        "startLocation": "東京",
+        "endLocation": "大阪",
+        "startMeter": "117998.4 km",
+        "endMeter": "N/A",
+        "distance": "N/A",
+        "totalTime": "N/A"
+      },
+      {
+        "id": 2,
+        "driverName": "吉田 陸",
+        "start": "2024-10-13",
+        "end": "2024-10-23",
+        "startLocation": "名古屋",
+        "endLocation": "東京",
+        "startMeter": "117163.0 km",
+        "endMeter": "117998.4 km",
+        "distance": "835.4 km",
+        "totalTime": "23h 15m"
+      },
+      {
+        "id": 3,
+        "driverName": "田中 翼",
+        "start": "2024-09-01",
+        "end": "2024-09-10",
+        "startLocation": "東京",
+        "endLocation": "新潟",
+        "startMeter": "115711.5 km",
+        "endMeter": "116355.3 km",
+        "distance": "643.7 km",
+        "totalTime": "15h 30m"
+      },
+      {
+        "id": 4,
+        "driverName": "田中 翼",
+        "start": "2024-08-15",
+        "end": "2024-08-18",
+        "startLocation": "東京",
+        "endLocation": "仙台",
+        "startMeter": "115067.8 km",
+        "endMeter": "115711.5 km",
+        "distance": "643.7 km",
+        "totalTime": "18h 00m"
+      },
+      {
+        "id": 5,
+        "driverName": "山本 太郎",
+        "start": "2024-07-10",
+        "end": "2024-07-15",
+        "startLocation": "熊本",
+        "endLocation": "東京",
+        "startMeter": "113941.3 km",
+        "endMeter": "115067.8 km",
+        "distance": "1126.5 km",
+        "totalTime": "22h 45m"
+      }
+    ]
+  },
+  {
+    "vehicleId": "A00103",
+    "tripHistory": [
+      {
+        "id": 1,
+        "driverName": "山本 太郎",
+        "start": "2024-10-01",
+        "end": "2024-10-04",
+        "startLocation": "福岡",
+        "endLocation": "鹿児島",
+        "startMeter": "117481.8 km",
+        "endMeter": "118286.5 km",
+        "distance": "804.7 km",
+        "totalTime": "14h 30m"
+      },
+      {
+        "id": 2,
+        "driverName": "高橋 美咲",
+        "start": "2024-09-12",
+        "end": "2024-09-15",
+        "startLocation": "神戸",
+        "endLocation": "熊本",
+        "startMeter": "116999.0 km",
+        "endMeter": "117481.8 km",
+        "distance": "482.8 km",
+        "totalTime": "10h 15m"
+      },
+      {
+        "id": 3,
+        "driverName": "鈴木 一郎",
+        "start": "2024-08-20",
+        "end": "2024-08-25",
+        "startLocation": "金沢",
+        "endLocation": "札幌",
+        "startMeter": "116194.3 km",
+        "endMeter": "116999.0 km",
+        "distance": "804.7 km",
+        "totalTime": "20h 10m"
+      },
+      {
+        "id": 4,
+        "driverName": "加藤 陽菜",
+        "start": "2024-07-10",
+        "end": "2024-07-15",
+        "startLocation": "札幌",
+        "endLocation": "福岡",
+        "startMeter": "115389.7 km",
+        "endMeter": "116194.3 km",
+        "distance": "804.7 km",
+        "totalTime": "18h 45m"
+      },
+      {
+        "id": 5,
+        "driverName": "小林 杏奈",
+        "start": "2024-06-18",
+        "end": "2024-06-20",
+        "startLocation": "鹿児島",
+        "endLocation": "金沢",
+        "startMeter": "114263.1 km",
+        "endMeter": "115389.7 km",
+        "distance": "1126.5 km",
+        "totalTime": "12h 30m"
+      }
+    ]
+  },
+  {
+    "vehicleId": "A00104",
+    "tripHistory": [
+      {
+        "id": 1,
+        "driverName": "伊藤 花子",
+        "start": "2024-11-20",
+        "end": "N/A",
+        "startLocation": "熊本",
+        "endLocation": "松本",
+        "startMeter": "54717.6 km",
+        "endMeter": "N/A",
+        "distance": "N/A",
+        "totalTime": "N/A"
+      },
+      {
+        "id": 2,
+        "driverName": "小林 杏奈",
+        "start": "2024-10-15",
+        "end": "2024-10-17",
+        "startLocation": "福岡",
+        "endLocation": "広島",
+        "startMeter": "53108.2 km",
+        "endMeter": "53912.9 km",
+        "distance": "804.7 km",
+        "totalTime": "10h 45m"
+      },
+      {
+        "id": 3,
+        "driverName": "中村 海翔",
+        "start": "2024-09-10",
+        "end": "2024-09-12",
+        "startLocation": "札幌",
+        "endLocation": "那覇",
+        "startMeter": "51498.9 km",
+        "endMeter": "52142.6 km",
+        "distance": "643.7 km",
+        "totalTime": "11h 00m"
+      },
+      {
+        "id": 4,
+        "driverName": "吉田 陸",
+        "start": "2024-08-05",
+        "end": "2024-08-07",
+        "startLocation": "鹿児島",
+        "endLocation": "金沢",
+        "startMeter": "49889.5 km",
+        "endMeter": "50694.2 km",
+        "distance": "804.7 km",
+        "totalTime": "8h 45m"
+      },
+      {
+        "id": 5,
+        "driverName": "佐々木 凛",
+        "start": "2024-07-18",
+        "end": "2024-07-20",
+        "startLocation": "神戸",
+        "endLocation": "福岡",
+        "startMeter": "49084.9 km",
+        "endMeter": "49889.5 km",
+        "distance": "804.7 km",
+        "totalTime": "7h 30m"
+      }
+    ]
+  },
+  {
+    "vehicleId": "A00105",
+    "tripHistory": [
+      {
+        "id": 1,
+        "driverName": "渡辺 結衣",
+        "start": "2024-12-01",
+        "end": "N/A",
+        "startLocation": "鹿児島",
+        "endLocation": "福岡",
+        "startMeter": "64373.6 km",
+        "endMeter": "N/A",
+        "distance": "N/A",
+        "totalTime": "N/A"
+      },
+      {
+        "id": 2,
+        "driverName": "高橋 美咲",
+        "start": "2024-11-20",
+        "end": "2024-11-21",
+        "startLocation": "福岡",
+        "endLocation": "金沢",
+        "startMeter": "64051.7 km",
+        "endMeter": "64373.6 km",
+        "distance": "321.9 km",
+        "totalTime": "4h 30m"
+      },
+      {
+        "id": 3,
+        "driverName": "渡辺 結衣",
+        "start": "2024-11-01",
+        "end": "2024-11-02",
+        "startLocation": "金沢",
+        "endLocation": "広島",
+        "startMeter": "63568.9 km",
+        "endMeter": "64051.7 km",
+        "distance": "482.8 km",
+        "totalTime": "6h 10m"
+      },
+      {
+        "id": 4,
+        "driverName": "田中 翼",
+        "start": "2024-10-10",
+        "end": "2024-10-12",
+        "startLocation": "広島",
+        "endLocation": "金沢",
+        "startMeter": "62764.3 km",
+        "endMeter": "63568.9 km",
+        "distance": "804.7 km",
+        "totalTime": "9h 45m"
+      },
+      {
+        "id": 5,
+        "driverName": "佐々木 凛",
+        "start": "2024-09-15",
+        "end": "2024-09-17",
+        "startLocation": "金沢",
+        "endLocation": "大阪",
+        "startMeter": "61959.6 km",
+        "endMeter": "62764.3 km",
+        "distance": "804.7 km",
+        "totalTime": "10h 30m"
+      }
+    ]
+  },
+  {
+    "vehicleId": "A00106",
+    "tripHistory": [
+      {
+        "id": 1,
+        "driverName": "佐藤 健",
+        "start": "2024-11-25",
+        "end": "2024-11-30",
+        "startLocation": "富山",
+        "endLocation": "岐阜",
+        "startMeter": "119895.8 km",
+        "endMeter": "120378.6 km",
+        "distance": "482.8 km",
+        "totalTime": "14h 50m"
+      },
+      {
+        "id": 2,
+        "driverName": "高橋 美咲",
+        "start": "2024-10-22",
+        "end": "2024-10-28",
+        "startLocation": "佐世保",
+        "endLocation": "松山",
+        "startMeter": "118930.2 km",
+        "endMeter": "119574.0 km",
+        "distance": "643.7 km",
+        "totalTime": "20h 10m"
+      },
+      {
+        "id": 3,
+        "driverName": "高橋 美咲",
+        "start": "2024-09-15",
+        "end": "2024-09-20",
+        "startLocation": "川崎",
+        "endLocation": "横浜",
+        "startMeter": "116033.4 km",
+        "endMeter": "116838.1 km",
+        "distance": "804.7 km",
+        "totalTime": "23h 30m"
+      },
+      {
+        "id": 4,
+        "driverName": "渡辺 結衣",
+        "start": "2024-08-18",
+        "end": "2024-08-25",
+        "startLocation": "姫路",
+        "endLocation": "奈良",
+        "startMeter": "115067.8 km",
+        "endMeter": "115872.5 km",
+        "distance": "804.7 km",
+        "totalTime": "24h 10m"
+      }
+    ]
+  },
+  {
+    "vehicleId": "A00107",
+    "tripHistory": [
+      {
+        "id": 1,
+        "driverName": "高橋 美咲",
+        "start": "2024-11-10",
+        "end": "2024-11-15",
+        "startLocation": "大阪",
+        "endLocation": "東京",
+        "startMeter": "119091.2 km",
+        "endMeter": "119895.8 km",
+        "distance": "804.7 km",
+        "totalTime": "25h 00m"
+      },
+      {
+        "id": 2,
+        "driverName": "松本 真央",
+        "start": "2024-10-25",
+        "end": "2024-10-30",
+        "startLocation": "名古屋",
+        "endLocation": "広島",
+        "startMeter": "118286.5 km",
+        "endMeter": "119091.2 km",
+        "distance": "804.7 km",
+        "totalTime": "24h 45m"
+      },
+      {
+        "id": 3,
+        "driverName": "山田 悠真",
+        "start": "2024-09-15",
+        "end": "2024-09-20",
+        "startLocation": "東京",
+        "endLocation": "仙台",
+        "startMeter": "117481.8 km",
+        "endMeter": "118286.5 km",
+        "distance": "804.7 km",
+        "totalTime": "22h 30m"
+      },
+      {
+        "id": 4,
+        "driverName": "田中 翼",
+        "start": "2024-08-20",
+        "end": "2024-08-25",
+        "startLocation": "名古屋",
+        "endLocation": "福岡",
+        "startMeter": "116677.1 km",
+        "endMeter": "117481.8 km",
+        "distance": "804.7 km",
+        "totalTime": "24h 15m"
+      }
+    ]
+  },
+  {
+    "vehicleId": "A00108",
+    "tripHistory": [
+      {
+        "id": 1,
+        "driverName": "吉田 陸",
+        "start": "2024-10-01",
+        "end": "2024-10-05",
+        "startLocation": "大阪",
+        "endLocation": "東京",
+        "startMeter": "117481.8 km",
+        "endMeter": "118286.5 km",
+        "distance": "804.7 km",
+        "totalTime": "20h 00m"
+      },
+      {
+        "id": 2,
+        "driverName": "小林 杏奈",
+        "start": "2024-09-15",
+        "end": "2024-09-20",
+        "startLocation": "広島",
+        "endLocation": "名古屋",
+        "startMeter": "116677.1 km",
+        "endMeter": "117481.8 km",
+        "distance": "804.7 km",
+        "totalTime": "25h 00m"
+      },
+      {
+        "id": 3,
+        "driverName": "佐藤 健",
+        "start": "2024-08-20",
+        "end": "2024-08-25",
+        "startLocation": "名古屋",
+        "endLocation": "仙台",
+        "startMeter": "115872.5 km",
+        "endMeter": "116677.1 km",
+        "distance": "804.7 km",
+        "totalTime": "22h 30m"
+      },
+      {
+        "id": 4,
+        "driverName": "高橋 美咲",
+        "start": "2024-07-10",
+        "end": "2024-07-15",
+        "startLocation": "仙台",
+        "endLocation": "札幌",
+        "startMeter": "115067.8 km",
+        "endMeter": "115872.5 km",
+        "distance": "804.7 km",
+        "totalTime": "23h 15m"
+      }
+    ]
+  },
+  {
+    "vehicleId": "A00109",
+    "tripHistory": [
+      {
+        "id": 1,
+        "driverName": "加藤 陽菜",
+        "start": "2024-11-01",
+        "end": "N/A",
+        "startLocation": "長野",
+        "endLocation": "静岡",
+        "startMeter": "136954.8 km",
+        "endMeter": "N/A",
+        "distance": "N/A",
+        "totalTime": "N/A"
+      },
+      {
+        "id": 2,
+        "driverName": "田中 翼",
+        "start": "2024-10-15",
+        "end": "2024-10-18",
+        "startLocation": "静岡",
+        "endLocation": "岡山",
+        "startMeter": "136150.2 km",
+        "endMeter": "136954.8 km",
+        "distance": "804.7 km",
+        "totalTime": "20h 00m"
+      },
+      {
+        "id": 3,
+        "driverName": "田中 翼",
+        "start": "2024-09-25",
+        "end": "2024-09-28",
+        "startLocation": "岡山",
+        "endLocation": "高松",
+        "startMeter": "135345.5 km",
+        "endMeter": "136150.2 km",
+        "distance": "804.7 km",
+        "totalTime": "18h 30m"
+      },
+      {
+        "id": 4,
+        "driverName": "山本 太郎",
+        "start": "2024-09-01",
+        "end": "2024-09-05",
+        "startLocation": "高松",
+        "endLocation": "広島",
+        "startMeter": "134540.8 km",
+        "endMeter": "135345.5 km",
+        "distance": "804.7 km",
+        "totalTime": "22h 15m"
+      }
+    ]
+  },
+  {
+    "vehicleId": "A00110",
+    "tripHistory": [
+      {
+        "id": 1,
+        "driverName": "田中 翼",
+        "start": "2024-11-10",
+        "end": "2024-11-14",
+        "startLocation": "福岡",
+        "endLocation": "東京",
+        "startMeter": "45061.5 km",
+        "endMeter": "45866.2 km",
+        "distance": "804.7 km",
+        "totalTime": "25h 00m"
+      },
+      {
+        "id": 2,
+        "driverName": "渡辺 結衣",
+        "start": "2024-10-01",
+        "end": "2024-10-05",
+        "startLocation": "東京",
+        "endLocation": "大阪",
+        "startMeter": "44256.8 km",
+        "endMeter": "45061.5 km",
+        "distance": "804.7 km",
+        "totalTime": "22h 30m"
+      },
+      {
+        "id": 3,
+        "driverName": "高橋 美咲",
+        "start": "2024-09-15",
+        "end": "2024-09-20",
+        "startLocation": "大阪",
+        "endLocation": "仙台",
+        "startMeter": "43452.2 km",
+        "endMeter": "44256.8 km",
+        "distance": "804.7 km",
+        "totalTime": "20h 45m"
+      },
+      {
+        "id": 4,
+        "driverName": "加藤 陽菜",
+        "start": "2024-08-25",
+        "end": "2024-08-30",
+        "startLocation": "仙台",
+        "endLocation": "札幌",
+        "startMeter": "42647.5 km",
+        "endMeter": "43452.2 km",
+        "distance": "804.7 km",
+        "totalTime": "21h 15m"
+      }
+    ]
+  },
+  {
+    "vehicleId": "A00111",
+    "tripHistory": [
+      {
+        "id": 1,
+        "driverName": "佐々木 凛",
+        "start": "2024-12-01",
+        "end": "2024-12-05",
+        "startLocation": "大阪",
+        "endLocation": "東京",
+        "startMeter": "63568.9 km",
+        "endMeter": "64373.6 km",
+        "distance": "804.7 km",
+        "totalTime": "21h 35m"
+      },
+      {
+        "id": 2,
+        "driverName": "鈴木 一郎",
+        "start": "2024-11-15",
+        "end": "2024-11-20",
+        "startLocation": "仙台",
+        "endLocation": "福岡",
+        "startMeter": "62764.3 km",
+        "endMeter": "63568.9 km",
+        "distance": "804.7 km",
+        "totalTime": "20h 30m"
+      },
+      {
+        "id": 3,
+        "driverName": "伊藤 花子",
+        "start": "2024-11-01",
+        "end": "2024-11-05",
+        "startLocation": "東京",
+        "endLocation": "大阪",
+        "startMeter": "61959.6 km",
+        "endMeter": "62764.3 km",
+        "distance": "804.7 km",
+        "totalTime": "22h 00m"
+      },
+      {
+        "id": 4,
+        "driverName": "加藤 陽菜",
+        "start": "2024-10-20",
+        "end": "2024-10-25",
+        "startLocation": "福岡",
+        "endLocation": "仙台",
+        "startMeter": "61154.9 km",
+        "endMeter": "61959.6 km",
+        "distance": "804.7 km",
+        "totalTime": "21h 45m"
+      }
+    ]
+  },
+  {
+    "vehicleId": "A00112",
+    "tripHistory": [
+      {
+        "id": 1,
+        "driverName": "加藤 陽菜",
+        "start": "2024-11-01",
+        "end": "2024-11-06",
+        "startLocation": "札幌",
+        "endLocation": "熊本",
+        "startMeter": "118286.5 km",
+        "endMeter": "119271.4 km",
+        "distance": "984.9 km",
+        "totalTime": "23h 25m"
+      },
+      {
+        "id": 2,
+        "driverName": "佐々木 凛",
+        "start": "2024-10-15",
+        "end": "2024-10-22",
+        "startLocation": "名古屋",
+        "endLocation": "東京",
+        "startMeter": "117322.5 km",
+        "endMeter": "118286.5 km",
+        "distance": "964.0 km",
+        "totalTime": "22h 10m"
+      },
+      {
+        "id": 3,
+        "driverName": "鈴木 一郎",
+        "start": "2024-09-20",
+        "end": "2024-09-25",
+        "startLocation": "熊本",
+        "endLocation": "名古屋",
+        "startMeter": "116355.3 km",
+        "endMeter": "117322.5 km",
+        "distance": "967.2 km",
+        "totalTime": "20h 30m"
+      },
+      {
+        "id": 4,
+        "driverName": "佐藤 健",
+        "start": "2024-08-10",
+        "end": "2024-08-15",
+        "startLocation": "東京",
+        "endLocation": "札幌",
+        "startMeter": "115389.7 km",
+        "endMeter": "116355.3 km",
+        "distance": "965.6 km",
+        "totalTime": "18h 45m"
+      }
+    ]
+  },
+  {
+    "vehicleId": "A00113",
+    "tripHistory": [
+      {
+        "id": 1,
+        "driverName": "小林 杏奈",
+        "start": "2024-11-17",
+        "end": "N/A",
+        "startLocation": "東京",
+        "endLocation": "大阪",
+        "startMeter": "117998.4 km",
+        "endMeter": "N/A",
+        "distance": "N/A",
+        "totalTime": "N/A"
+      },
+      {
+        "id": 2,
+        "driverName": "佐々木 凛",
+        "start": "2024-10-13",
+        "end": "2024-10-23",
+        "startLocation": "名古屋",
+        "endLocation": "東京",
+        "startMeter": "117163.0 km",
+        "endMeter": "117998.4 km",
+        "distance": "835.4 km",
+        "totalTime": "23h 15m"
+      },
+      {
+        "id": 3,
+        "driverName": "山本 太郎",
+        "start": "2024-10-03",
+        "end": "2024-10-12",
+        "startLocation": "東京",
+        "endLocation": "名古屋",
+        "startMeter": "116638.4 km",
+        "endMeter": "117163.0 km",
+        "distance": "524.6 km",
+        "totalTime": "18h 30m"
+      },
+      {
+        "id": 4,
+        "driverName": "中村 海翔",
+        "start": "2024-09-23",
+        "end": "2024-09-29",
+        "startLocation": "名古屋",
+        "endLocation": "東京",
+        "startMeter": "115140.4 km",
+        "endMeter": "116638.4 km",
+        "distance": "1498.0 km",
+        "totalTime": "45h 30m"
+      },
+      {
+        "id": 5,
+        "driverName": "山本 太郎",
+        "start": "2024-08-23",
+        "end": "2024-09-22",
+        "startLocation": "東京",
+        "endLocation": "名古屋",
+        "startMeter": "113588.8 km",
+        "endMeter": "115140.4 km",
+        "distance": "1551.6 km",
+        "totalTime": "44h 45m"
+      },
+      {
+        "id": 6,
+        "driverName": "佐々木 凛",
+        "start": "2024-08-15",
+        "end": "2024-08-20",
+        "startLocation": "札幌",
+        "endLocation": "東京",
+        "startMeter": "112608.6 km",
+        "endMeter": "113588.8 km",
+        "distance": "980.2 km",
+        "totalTime": "38h 30m"
+      }
+    ]
+  },
+  {
+    "vehicleId": "A00114",
+    "tripHistory": [
+      {
+        "id": 1,
+        "driverName": "佐々木 凛",
+        "start": "2024-11-17",
+        "end": "2024-11-17",
+        "startLocation": "東京",
+        "endLocation": "大阪",
+        "startMeter": "117998.4 km",
+        "endMeter": "118324.1 km",
+        "distance": "325.7 km",
+        "totalTime": "4h 15m"
+      },
+      {
+        "id": 2,
+        "driverName": "中村 海翔",
+        "start": "2024-10-13",
+        "end": "2024-10-23",
+        "startLocation": "名古屋",
+        "endLocation": "東京",
+        "startMeter": "117163.0 km",
+        "endMeter": "117998.4 km",
+        "distance": "835.4 km",
+        "totalTime": "23h 15m"
+      },
+      {
+        "id": 3,
+        "driverName": "田中 翼",
+        "start": "2024-09-01",
+        "end": "2024-09-10",
+        "startLocation": "東京",
+        "endLocation": "新潟",
+        "startMeter": "115711.5 km",
+        "endMeter": "116355.3 km",
+        "distance": "643.7 km",
+        "totalTime": "15h 30m"
+      },
+      {
+        "id": 4,
+        "driverName": "高橋 美咲",
+        "start": "2024-08-15",
+        "end": "2024-08-18",
+        "startLocation": "東京",
+        "endLocation": "仙台",
+        "startMeter": "115067.8 km",
+        "endMeter": "115711.5 km",
+        "distance": "643.7 km",
+        "totalTime": "18h 00m"
+      },
+      {
+        "id": 5,
+        "driverName": "吉田 陸",
+        "start": "2024-07-10",
+        "end": "2024-07-15",
+        "startLocation": "熊本",
+        "endLocation": "東京",
+        "startMeter": "113941.3 km",
+        "endMeter": "115067.8 km",
+        "distance": "1126.5 km",
+        "totalTime": "22h 45m"
+      }
+    ]
+  },
+  {
+    "vehicleId": "A00115",
+    "tripHistory": [
+      {
+        "id": 1,
+        "driverName": "山田 悠真",
+        "start": "2024-10-01",
+        "end": "2024-10-04",
+        "startLocation": "福岡",
+        "endLocation": "鹿児島",
+        "startMeter": "117481.8 km",
+        "endMeter": "118286.5 km",
+        "distance": "804.7 km",
+        "totalTime": "14h 30m"
+      },
+      {
+        "id": 2,
+        "driverName": "田中 翼",
+        "start": "2024-09-12",
+        "end": "2024-09-15",
+        "startLocation": "神戸",
+        "endLocation": "熊本",
+        "startMeter": "116999.0 km",
+        "endMeter": "117481.8 km",
+        "distance": "482.8 km",
+        "totalTime": "10h 15m"
+      },
+      {
+        "id": 3,
+        "driverName": "小林 杏奈",
+        "start": "2024-08-20",
+        "end": "2024-08-25",
+        "startLocation": "金沢",
+        "endLocation": "札幌",
+        "startMeter": "116194.3 km",
+        "endMeter": "116999.0 km",
+        "distance": "804.7 km",
+        "totalTime": "20h 10m"
+      },
+      {
+        "id": 4,
+        "driverName": "中村 海翔",
+        "start": "2024-07-10",
+        "end": "2024-07-15",
+        "startLocation": "札幌",
+        "endLocation": "福岡",
+        "startMeter": "115389.7 km",
+        "endMeter": "116194.3 km",
+        "distance": "804.7 km",
+        "totalTime": "18h 45m"
+      },
+      {
+        "id": 5,
+        "driverName": "田中 翼",
+        "start": "2024-06-18",
+        "end": "2024-06-20",
+        "startLocation": "鹿児島",
+        "endLocation": "金沢",
+        "startMeter": "114263.1 km",
+        "endMeter": "115389.7 km",
+        "distance": "1126.5 km",
+        "totalTime": "12h 30m"
+      }
+    ]
+  },
+  {
+    "vehicleId": "A00116",
+    "tripHistory": [
+      {
+        "id": 1,
+        "driverName": "佐藤 健",
+        "start": "2024-11-20",
+        "end": "N/A",
+        "startLocation": "熊本",
+        "endLocation": "松本",
+        "startMeter": "54717.6 km",
+        "endMeter": "N/A",
+        "distance": "N/A",
+        "totalTime": "N/A"
+      },
+      {
+        "id": 2,
+        "driverName": "山本 太郎",
+        "start": "2024-10-15",
+        "end": "2024-10-17",
+        "startLocation": "福岡",
+        "endLocation": "広島",
+        "startMeter": "53108.2 km",
+        "endMeter": "53912.9 km",
+        "distance": "804.7 km",
+        "totalTime": "10h 45m"
+      },
+      {
+        "id": 3,
+        "driverName": "田中 翼",
+        "start": "2024-09-10",
+        "end": "2024-09-12",
+        "startLocation": "札幌",
+        "endLocation": "那覇",
+        "startMeter": "51498.9 km",
+        "endMeter": "52142.6 km",
+        "distance": "643.7 km",
+        "totalTime": "11h 00m"
+      },
+      {
+        "id": 4,
+        "driverName": "吉田 陸",
+        "start": "2024-08-05",
+        "end": "2024-08-07",
+        "startLocation": "鹿児島",
+        "endLocation": "金沢",
+        "startMeter": "49889.5 km",
+        "endMeter": "50694.2 km",
+        "distance": "804.7 km",
+        "totalTime": "8h 45m"
+      },
+      {
+        "id": 5,
+        "driverName": "松本 真央",
+        "start": "2024-07-18",
+        "end": "2024-07-20",
+        "startLocation": "神戸",
+        "endLocation": "福岡",
+        "startMeter": "49084.9 km",
+        "endMeter": "49889.5 km",
+        "distance": "804.7 km",
+        "totalTime": "7h 30m"
+      }
+    ]
+  },
+  {
+    "vehicleId": "A00117",
+    "tripHistory": [
+      {
+        "id": 1,
+        "driverName": "佐々木 凛",
+        "start": "2024-12-01",
+        "end": "2024-12-02",
+        "startLocation": "鹿児島",
+        "endLocation": "福岡",
+        "startMeter": "64373.6 km",
+        "endMeter": "64695.5 km",
+        "distance": "321.9 km",
+        "totalTime": "5h 15m"
+      },
+      {
+        "id": 2,
+        "driverName": "田中 翼",
+        "start": "2024-11-20",
+        "end": "2024-11-21",
+        "startLocation": "福岡",
+        "endLocation": "金沢",
+        "startMeter": "64051.7 km",
+        "endMeter": "64373.6 km",
+        "distance": "321.9 km",
+        "totalTime": "4h 30m"
+      },
+      {
+        "id": 3,
+        "driverName": "渡辺 結衣",
+        "start": "2024-11-01",
+        "end": "2024-11-02",
+        "startLocation": "金沢",
+        "endLocation": "広島",
+        "startMeter": "63568.9 km",
+        "endMeter": "64051.7 km",
+        "distance": "482.8 km",
+        "totalTime": "6h 10m"
+      },
+      {
+        "id": 4,
+        "driverName": "加藤 陽菜",
+        "start": "2024-10-10",
+        "end": "2024-10-12",
+        "startLocation": "広島",
+        "endLocation": "金沢",
+        "startMeter": "62764.3 km",
+        "endMeter": "63568.9 km",
+        "distance": "804.7 km",
+        "totalTime": "9h 45m"
+      },
+      {
+        "id": 5,
+        "driverName": "田中 翼",
+        "start": "2024-09-15",
+        "end": "2024-09-17",
+        "startLocation": "金沢",
+        "endLocation": "大阪",
+        "startMeter": "61959.6 km",
+        "endMeter": "62764.3 km",
+        "distance": "804.7 km",
+        "totalTime": "10h 30m"
+      }
+    ]
+  },
+  {
+    "vehicleId": "A00118",
+    "tripHistory": [
+      {
+        "id": 1,
+        "driverName": "佐藤 健",
+        "start": "2024-11-25",
+        "end": "N/A",
+        "startLocation": "富山",
+        "endLocation": "岐阜",
+        "startMeter": "119895.8 km",
+        "endMeter": "N/A",
+        "distance": "N/A",
+        "totalTime": "N/A"
+      },
+      {
+        "id": 2,
+        "driverName": "高橋 美咲",
+        "start": "2024-10-22",
+        "end": "2024-10-28",
+        "startLocation": "佐世保",
+        "endLocation": "松山",
+        "startMeter": "118930.2 km",
+        "endMeter": "119574.0 km",
+        "distance": "643.7 km",
+        "totalTime": "20h 10m"
+      },
+      {
+        "id": 3,
+        "driverName": "中村 海翔",
+        "start": "2024-09-15",
+        "end": "2024-09-20",
+        "startLocation": "川崎",
+        "endLocation": "横浜",
+        "startMeter": "116033.4 km",
+        "endMeter": "116838.1 km",
+        "distance": "804.7 km",
+        "totalTime": "23h 30m"
+      },
+      {
+        "id": 4,
+        "driverName": "鈴木 一郎",
+        "start": "2024-08-18",
+        "end": "2024-08-25",
+        "startLocation": "姫路",
+        "endLocation": "奈良",
+        "startMeter": "115067.8 km",
+        "endMeter": "115872.5 km",
+        "distance": "804.7 km",
+        "totalTime": "24h 10m"
+      }
+    ]
+  },
+  {
+    "vehicleId": "A00119",
+    "tripHistory": [
+      {
+        "id": 1,
+        "driverName": "中村 海翔",
+        "start": "2024-11-10",
+        "end": "2024-11-15",
+        "startLocation": "大阪",
+        "endLocation": "東京",
+        "startMeter": "119091.2 km",
+        "endMeter": "119895.8 km",
+        "distance": "804.7 km",
+        "totalTime": "25h 00m"
+      },
+      {
+        "id": 2,
+        "driverName": "高橋 美咲",
+        "start": "2024-10-25",
+        "end": "2024-10-30",
+        "startLocation": "名古屋",
+        "endLocation": "広島",
+        "startMeter": "118286.5 km",
+        "endMeter": "119091.2 km",
+        "distance": "804.7 km",
+        "totalTime": "24h 45m"
+      },
+      {
+        "id": 3,
+        "driverName": "佐々木 凛",
+        "start": "2024-09-15",
+        "end": "2024-09-20",
+        "startLocation": "東京",
+        "endLocation": "仙台",
+        "startMeter": "117481.8 km",
+        "endMeter": "118286.5 km",
+        "distance": "804.7 km",
+        "totalTime": "22h 30m"
+      },
+      {
+        "id": 4,
+        "driverName": "伊藤 花子",
+        "start": "2024-08-20",
+        "end": "2024-08-25",
+        "startLocation": "名古屋",
+        "endLocation": "福岡",
+        "startMeter": "116677.1 km",
+        "endMeter": "117481.8 km",
+        "distance": "804.7 km",
+        "totalTime": "24h 15m"
+      }
+    ]
+  },
+  {
+    "vehicleId": "A00120",
+    "tripHistory": [
+      {
+        "id": 1,
+        "driverName": "田中 翼",
+        "start": "2024-10-01",
+        "end": "2024-10-05",
+        "startLocation": "大阪",
+        "endLocation": "東京",
+        "startMeter": "117481.8 km",
+        "endMeter": "118286.5 km",
+        "distance": "804.7 km",
+        "totalTime": "20h 00m"
+      },
+      {
+        "id": 2,
+        "driverName": "高橋 美咲",
+        "start": "2024-09-15",
+        "end": "2024-09-20",
+        "startLocation": "広島",
+        "endLocation": "名古屋",
+        "startMeter": "116677.1 km",
+        "endMeter": "117481.8 km",
+        "distance": "804.7 km",
+        "totalTime": "25h 00m"
+      },
+      {
+        "id": 3,
+        "driverName": "佐々木 凛",
+        "start": "2024-08-20",
+        "end": "2024-08-25",
+        "startLocation": "名古屋",
+        "endLocation": "仙台",
+        "startMeter": "115872.5 km",
+        "endMeter": "116677.1 km",
+        "distance": "804.7 km",
+        "totalTime": "22h 30m"
+      },
+      {
+        "id": 4,
+        "driverName": "吉田 陸",
+        "start": "2024-07-10",
+        "end": "2024-07-15",
+        "startLocation": "仙台",
+        "endLocation": "札幌",
+        "startMeter": "115067.8 km",
+        "endMeter": "115872.5 km",
+        "distance": "804.7 km",
+        "totalTime": "23h 15m"
+      }
+    ]
+  },
+  {
+    "vehicleId": "A00121",
+    "tripHistory": [
+      {
+        "id": 1,
+        "driverName": "松本 真央",
+        "start": "2024-11-01",
+        "end": "N/A",
+        "startLocation": "長野",
+        "endLocation": "静岡",
+        "startMeter": "136954.8 km",
+        "endMeter": "N/A",
+        "distance": "N/A",
+        "totalTime": "N/A"
+      },
+      {
+        "id": 2,
+        "driverName": "鈴木 一郎",
+        "start": "2024-10-15",
+        "end": "2024-10-18",
+        "startLocation": "静岡",
+        "endLocation": "岡山",
+        "startMeter": "136150.2 km",
+        "endMeter": "136954.8 km",
+        "distance": "804.7 km",
+        "totalTime": "20h 00m"
+      },
+      {
+        "id": 3,
+        "driverName": "田中 翼",
+        "start": "2024-09-25",
+        "end": "2024-09-28",
+        "startLocation": "岡山",
+        "endLocation": "高松",
+        "startMeter": "135345.5 km",
+        "endMeter": "136150.2 km",
+        "distance": "804.7 km",
+        "totalTime": "18h 30m"
+      },
+      {
+        "id": 4,
+        "driverName": "松本 真央",
+        "start": "2024-09-01",
+        "end": "2024-09-05",
+        "startLocation": "高松",
+        "endLocation": "広島",
+        "startMeter": "134540.8 km",
+        "endMeter": "135345.5 km",
+        "distance": "804.7 km",
+        "totalTime": "22h 15m"
+      }
+    ]
+  },
+  {
+    "vehicleId": "A00122",
+    "tripHistory": [
+      {
+        "id": 1,
+        "driverName": "山田 悠真",
+        "start": "2024-11-10",
+        "end": "2024-11-14",
+        "startLocation": "福岡",
+        "endLocation": "東京",
+        "startMeter": "45061.5 km",
+        "endMeter": "45866.2 km",
+        "distance": "804.7 km",
+        "totalTime": "25h 00m"
+      },
+      {
+        "id": 2,
+        "driverName": "小林 杏奈",
+        "start": "2024-10-01",
+        "end": "2024-10-05",
+        "startLocation": "東京",
+        "endLocation": "大阪",
+        "startMeter": "44256.8 km",
+        "endMeter": "45061.5 km",
+        "distance": "804.7 km",
+        "totalTime": "22h 30m"
+      },
+      {
+        "id": 3,
+        "driverName": "高橋 美咲",
+        "start": "2024-09-15",
+        "end": "2024-09-20",
+        "startLocation": "大阪",
+        "endLocation": "仙台",
+        "startMeter": "43452.2 km",
+        "endMeter": "44256.8 km",
+        "distance": "804.7 km",
+        "totalTime": "20h 45m"
+      },
+      {
+        "id": 4,
+        "driverName": "渡辺 結衣",
+        "start": "2024-08-25",
+        "end": "2024-08-30",
+        "startLocation": "仙台",
+        "endLocation": "札幌",
+        "startMeter": "42647.5 km",
+        "endMeter": "43452.2 km",
+        "distance": "804.7 km",
+        "totalTime": "21h 15m"
+      }
+    ]
+  },
+  {
+    "vehicleId": "A00123",
+    "tripHistory": [
+      {
+        "id": 1,
+        "driverName": "佐藤 健",
+        "start": "2024-12-01",
+        "end": "N/A",
+        "startLocation": "大阪",
+        "endLocation": "東京",
+        "startMeter": "63568.9 km",
+        "endMeter": "N/A",
+        "distance": "N/A",
+        "totalTime": "N/A"
+      },
+      {
+        "id": 2,
+        "driverName": "小林 杏奈",
+        "start": "2024-11-15",
+        "end": "2024-11-20",
+        "startLocation": "仙台",
+        "endLocation": "福岡",
+        "startMeter": "62764.3 km",
+        "endMeter": "63568.9 km",
+        "distance": "804.7 km",
+        "totalTime": "20h 30m"
+      },
+      {
+        "id": 3,
+        "driverName": "高橋 美咲",
+        "start": "2024-11-01",
+        "end": "2024-11-05",
+        "startLocation": "東京",
+        "endLocation": "大阪",
+        "startMeter": "61959.6 km",
+        "endMeter": "62764.3 km",
+        "distance": "804.7 km",
+        "totalTime": "22h 00m"
+      },
+      {
+        "id": 4,
+        "driverName": "中村 海翔",
+        "start": "2024-10-20",
+        "end": "2024-10-25",
+        "startLocation": "福岡",
+        "endLocation": "仙台",
+        "startMeter": "61154.9 km",
+        "endMeter": "61959.6 km",
+        "distance": "804.7 km",
+        "totalTime": "21h 45m"
+      }
+    ]
+  },
+  {
+    "vehicleId": "A00124",
+    "tripHistory": [
+      {
+        "id": 1,
+        "driverName": "伊藤 花子",
+        "start": "2024-11-01",
+        "end": "2024-11-06",
+        "startLocation": "札幌",
+        "endLocation": "熊本",
+        "startMeter": "118286.5 km",
+        "endMeter": "119271.4 km",
+        "distance": "984.9 km",
+        "totalTime": "23h 25m"
+      },
+      {
+        "id": 2,
+        "driverName": "田中 翼",
+        "start": "2024-10-15",
+        "end": "2024-10-22",
+        "startLocation": "名古屋",
+        "endLocation": "東京",
+        "startMeter": "117322.5 km",
+        "endMeter": "118286.5 km",
+        "distance": "964.0 km",
+        "totalTime": "22h 10m"
+      },
+      {
+        "id": 3,
+        "driverName": "田中 翼",
+        "start": "2024-09-20",
+        "end": "2024-09-25",
+        "startLocation": "熊本",
+        "endLocation": "名古屋",
+        "startMeter": "116355.3 km",
+        "endMeter": "117322.5 km",
+        "distance": "967.2 km",
+        "totalTime": "20h 30m"
+      },
+      {
+        "id": 4,
+        "driverName": "松本 真央",
+        "start": "2024-08-10",
+        "end": "2024-08-15",
+        "startLocation": "東京",
+        "endLocation": "札幌",
+        "startMeter": "115389.7 km",
+        "endMeter": "116355.3 km",
+        "distance": "965.6 km",
+        "totalTime": "18h 45m"
+      }
+    ]
+  },
+  {
+    "vehicleId": "A00125",
+    "tripHistory": [
+      {
+        "id": 1,
+        "driverName": "加藤 陽菜",
+        "start": "2024-11-17",
+        "end": "2024-11-17",
+        "startLocation": "東京",
+        "endLocation": "大阪",
+        "startMeter": "117998.4 km",
+        "endMeter": "118324.1 km",
+        "distance": "325.7 km",
+        "totalTime": "4h 15m"
+      },
+      {
+        "id": 2,
+        "driverName": "佐々木 凛",
+        "start": "2024-10-13",
+        "end": "2024-10-23",
+        "startLocation": "名古屋",
+        "endLocation": "東京",
+        "startMeter": "117163.0 km",
+        "endMeter": "117998.4 km",
+        "distance": "835.4 km",
+        "totalTime": "23h 15m"
+      },
+      {
+        "id": 3,
+        "driverName": "渡辺 結衣",
+        "start": "2024-10-03",
+        "end": "2024-10-12",
+        "startLocation": "東京",
+        "endLocation": "名古屋",
+        "startMeter": "116638.4 km",
+        "endMeter": "117163.0 km",
+        "distance": "524.6 km",
+        "totalTime": "18h 30m"
+      },
+      {
+        "id": 4,
+        "driverName": "中村 海翔",
+        "start": "2024-09-23",
+        "end": "2024-09-29",
+        "startLocation": "名古屋",
+        "endLocation": "東京",
+        "startMeter": "115140.4 km",
+        "endMeter": "116638.4 km",
+        "distance": "1498.0 km",
+        "totalTime": "45h 30m"
+      },
+      {
+        "id": 5,
+        "driverName": "佐々木 凛",
+        "start": "2024-08-23",
+        "end": "2024-09-22",
+        "startLocation": "東京",
+        "endLocation": "名古屋",
+        "startMeter": "113588.8 km",
+        "endMeter": "115140.4 km",
+        "distance": "1551.6 km",
+        "totalTime": "44h 45m"
+      },
+      {
+        "id": 6,
+        "driverName": "吉田 陸",
+        "start": "2024-08-15",
+        "end": "2024-08-20",
+        "startLocation": "札幌",
+        "endLocation": "東京",
+        "startMeter": "112608.6 km",
+        "endMeter": "113588.8 km",
+        "distance": "980.2 km",
+        "totalTime": "38h 30m"
+      }
+    ]
+  }
+]
